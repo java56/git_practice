@@ -1,3 +1,4 @@
 I am the second text file
 changes to second file
 making changes to test merge file
+i want to test merge from github
